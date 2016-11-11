@@ -1,0 +1,10 @@
+.info {
+	display: inline-block;
+	margin: 3px;
+	background-color: red;
+	height: 100%;
+	&:hover {
+		background-color: green;
+	}
+}
+

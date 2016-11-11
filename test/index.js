@@ -1,1 +1,1 @@
-export {Default as appTest} from './app.spec'
+import './app.spec'
